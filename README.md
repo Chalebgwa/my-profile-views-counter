@@ -2,7 +2,7 @@
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
-The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
+This is Chalebgwa's customized profile views counter. The original project was created and maintained by [gayanvoice](https://github.com/gayanvoice). Follow me on [GitHub](https://github.com/Chalebgwa).
 
 <table>
 	<tr>
@@ -21,158 +21,158 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/207237845/week.md">
-				android-vpn-client-ics-openvpn
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/326377417/week.md">
+				Themis
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			63071
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/207237845/small/week.png" height="20"> 244550
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/326377417/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/208378302/week.md">
-				openvpn-install-for-multiple-users
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/222706011/week.md">
+				gadget-security
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			7469
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/208378302/small/week.png" height="20"> 14149
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/222706011/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373376349/week.md">
-				top-github-users-action
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/1009914214/week.md">
+				insight
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			8759
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373376349/small/week.png" height="20"> 20561
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/1009914214/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/373383893/week.md">
-				top-github-users
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/374553029/week.md">
+				SkeifCV
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			396478
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/373383893/small/week.png" height="20"> 1073541
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/374553029/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372371373/week.md">
-				github-profile-views-counter-action
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/614341072/week.md">
+				chalebgwa
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:30 AM UTC
+			Loading...
 		</td>
 		<td>
-			489
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372371373/small/week.png" height="20"> 2719
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/614341072/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/372372861/week.md">
-				github-profile-views-counter
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/682990360/week.md">
+				pprab
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			5616
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/372372861/small/week.png" height="20"> 12643
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/682990360/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209241190/week.md">
-				android-animations
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/1023690064/week.md">
+				global-transparency-dashboard
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			6986
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209241190/small/week.png" height="20"> 20414
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/1023690064/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/209461195/week.md">
-				android-animations-kotlin
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/1014992400/week.md">
+				poseidon
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:00 AM UTC
+			Loading...
 		</td>
 		<td>
-			4090
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/209461195/small/week.png" height="20"> 10947
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/1014992400/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/gayanvoice/my-profile-views-counter/tree/master/readme/370678191/week.md">
-				node-chart-exec
+			<a href="https://github.com/Chalebgwa/my-profile-views-counter/tree/master/readme/694848328/week.md">
+				project_veritas
 			</a>
 		</td>
 		<td>
-			2025/4/13 12:32 AM UTC
+			Loading...
 		</td>
 		<td>
-			41
+			Loading...
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/gayanvoice/my-profile-views-counter/raw/master/graph/370678191/small/week.png" height="20"> 65
+			<img alt="Response time graph" src="https://github.com/Chalebgwa/my-profile-views-counter/raw/master/graph/694848328/small/week.png" height="20"> Loading...
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/15 12:08 AM UTC</i></small>
+<small><i>Data will be updated by GitHub Actions</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![Image of https://github.com/Chalebgwa/my-profile-views-counter](https://github.com/Chalebgwa/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Chalebgwa/my-profile-views-counter)
 
 ```readme
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![Image of https://github.com/Chalebgwa/my-profile-views-counter](https://github.com/Chalebgwa/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Chalebgwa/my-profile-views-counter)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
